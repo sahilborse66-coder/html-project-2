@@ -80,7 +80,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    color: #ffd6d6;
+    color: #ffd6d6;S
 }
 
 
@@ -113,11 +113,12 @@ main {
     background:
 
         linear-gradient(
-            rgba(40, 40, 40, 0.85),
-            rgba(90, 90, 90, 0.85)
+        rgba(0, 0, 0, 0.35),
+        rgba(0, 0, 0, 0.35)
         ),
 
-        url("../img/bag.png");
+        url("../../../img/bag.png");
+        
 
     background-size: cover;
     background-position: center;
